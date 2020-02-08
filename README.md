@@ -48,7 +48,7 @@ $ ./fileserver      // 在当前目录启动一个文件服务器
 
 docker容器中只需要有curl命令即可。
 
-<img src="https://github.com/FengGeSe/fileserver/static/micrserver.jpg">
+<img src="https://github.com/FengGeSe/fileserver/blob/master/static/fileserver.jpg">
 
 
 
